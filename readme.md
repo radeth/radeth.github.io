@@ -4,6 +4,6 @@
 ### TODO's
 - atleci do zrobienia
 - poprawki na stronie brainattach
-- npm run build nie działa
+- deploy problem
 - opisy projektów na githibie
 - cv!!!

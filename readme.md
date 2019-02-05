@@ -2,9 +2,8 @@
 ## Front-End Developer
 
 ### TODO's
-- porawki atelci
-- poprawki na stronie
+- atleci do zrobienia
+- poprawki na stronie brainattach
 - npm run build nie działa
-- gh pages
-- opisy projektów
+- opisy projektów na githibie
 - cv!!!

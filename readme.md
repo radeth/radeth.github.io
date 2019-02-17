@@ -2,6 +2,7 @@
 ## Front-End Developer
 
 ### TODO's
+- reacr hooks trening
 - redeme atleci
 - poprawki na stronie brainattach
 - deploy problem z react-router

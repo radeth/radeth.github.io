@@ -2,6 +2,7 @@
 ## Front-End Developer
 
 ### TODO's
+- czcionka vh+vw manipulowanie textem w zależnosci od wielkości ekranu
 - redeme ant hints atleci
 - poprawki na stronie brainattach
 - deploy problem z react-router

@@ -2,6 +2,7 @@
 ## Front-End Developer
 
 ### TODO's
+- skonfigurowanie webpacka
 - czcionka vh+vw manipulowanie textem w zależnosci od wielkości ekranu
 - redeme ant hints atleci
 - poprawki na stronie brainattach

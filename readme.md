@@ -9,6 +9,11 @@
 
 ## Projects
 
+[React Hooks](https://github.com/radeth/react-hooks): app testing new react feauture Hooks</br>
+[Brainatttach webpage](https://github.com/radeth/brainattach-v2): New website Brainttach project</br>
+[Athletes](https://github.com/radeth/athletes): No responsive app displaying athletes data
+[To do app](https://github.com/radeth/to-do-list):app bulid with JavaScript, React, Redux </br>
+[Bootstrap page](https://github.com/radeth/bootstrap-page): Responsive webpage based on bootstrap an formspree API</br>
 ## TODO's
 - skonfigurowanie webpacka
 - czcionka vh+vw manipulowanie textem w zależnosci od wielkości ekranu

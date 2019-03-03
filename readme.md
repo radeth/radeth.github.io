@@ -1,4 +1,4 @@
-# Radowław Moczarski
+# Radosław Moczarski
 ## Front End-Developer
 
 ## Table of contents
@@ -7,7 +7,7 @@
 - [TODO's](#TODO's)
 
 ## About 
-I am a young ambitious person who loves the Internet and computers and everything related to them. since 2017, he creates websites and web applications first on the annual bootcap, then learning on my Own. I am familiar with the following languages and technologies: **HTML5 CSS3 JavaScript JQuery Bootstrap**.Now i focus on **React Redux React-Native**
+I am a young ambitious person who loves the Internet and computers and everything related to them. since 2017, he creates websites and web applications first on the annual bootcap, then learning on my Own. I am familiar with the following languages and technologies: **HTML5 CSS3 JavaScript JQuery Bootstrap**. Now i focus on **React Redux React-Native**
 ## Projects
 - [React Hooks](https://github.com/radeth/react-hooks): App testing new react feauture Hooks : **JavaScript React**</br>
 - [Brainatttach webpage](https://github.com/radeth/brainattach-v2): New website Brainttach project : **JavaScript React**</br>

@@ -2,10 +2,10 @@
 ## Front End-Developer
 
 ## Table of contents
-- [About Me](#AboutMe)
+- [About](#About)
 - [Projects](#Projects)
 - [TODO's](#TODO's)
-## About Me
+## About 
 
 ## Projects
 

@@ -1,7 +1,15 @@
-# Radosław Moczarski
-## Front-End Developer
+# Radowław Moczarski
+## Front End-Developer
 
-### TODO's
+## Table of contents
+- [About Me](#About Me)
+- [Projects](#Projects)
+- [TODO's](#TODO's)
+## About Me
+
+## Projects
+
+## TODO's
 - skonfigurowanie webpacka
 - czcionka vh+vw manipulowanie textem w zależnosci od wielkości ekranu
 - redeme ant hints atleci

@@ -6,13 +6,13 @@
 - [Projects](#Projects)
 - [TODO's](#TODO's)
 ## About 
-I am a young ambitious person who loves the Internet and computers and everything related to them. since 2017, he creates websites and web applications first on the annual bootcap, then learning on my Own. I am familiar with the following languages and technologies:**HTML5 CSS3 JavaScript JQuery Bootstrap**
+I am a young ambitious person who loves the Internet and computers and everything related to them. since 2017, he creates websites and web applications first on the annual bootcap, then learning on my Own. I am familiar with the following languages and technologies: **HTML5 CSS3 JavaScript JQuery Bootstrap**
 ## Projects
 
-[React Hooks](https://github.com/radeth/react-hooks): app testing new react feauture Hooks : **JavaScript React**</br>
+[React Hooks](https://github.com/radeth/react-hooks): App testing new react feauture Hooks : **JavaScript React**</br>
 [Brainatttach webpage](https://github.com/radeth/brainattach-v2): New website Brainttach project : **JavaScript React**</br>
 [Athletes](https://github.com/radeth/athletes): No responsive app displaying athletes data : **JavaScript React** </br>
-[To do app](https://github.com/radeth/to-do-list):app bulid with JavaScript, React, Redux : **JavaScript React Redux** </br>
+[To do app](https://github.com/radeth/to-do-list): App bulid with JavaScript, React, Redux : **JavaScript React Redux** </br>
 [Bootstrap page](https://github.com/radeth/bootstrap-page): Responsive webpage based on bootstrap an formspree API: **CSS3 HTML5 JQuery**</br>
 ## TODO's
 - skonfigurowanie webpacka

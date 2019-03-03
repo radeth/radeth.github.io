@@ -6,7 +6,7 @@
 - [Projects](#Projects)
 - [TODO's](#TODO's)
 ## About 
-
+I am a young ambitious person who loves the Internet and computers and everything related to them. since 2017, he creates websites and web applications first on the annual bootcap, then learning on my Own. I am familiar with the following languages and technologies:**HTML5 CSS3 JavaScript JQuery Bootstrap**
 ## Projects
 
 [React Hooks](https://github.com/radeth/react-hooks): app testing new react feauture Hooks : **JavaScript React**</br>

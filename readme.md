@@ -7,7 +7,7 @@
 - [TODO's](#TODO's)
 
 ## About 
-I am a young ambitious person who love the internet and computers and everything related to them. Since 2017, I create websites and web applications first on the annual bootcap, then learning on my own. I am familiar with the following languages and technologies: **HTML5 CSS3 JavaScript JQuery Bootstrap**. Now I focus on **React Redux React-Native**
+I am a young ambitious person who love the internet and computers and everything related to them. Since 2017, I create websites and web applications first on the annual bootcamp, then learning on my own. I am familiar with the following languages and technologies: **HTML5 CSS3 JavaScript JQuery Bootstrap**. Now I focus on **React Redux React-Native**. I am looking for a stable job in which I will be able to improve my skills as a programmer and get to know good pratics
 ## Projects
 - [React Hooks](https://github.com/radeth/react-hooks): App testing new react feauture Hooks : **JavaScript React**</br>
 - [Brainatttach webpage](https://github.com/radeth/brainattach-v2): New website Brainttach project : **JavaScript React**</br>

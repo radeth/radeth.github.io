@@ -15,13 +15,12 @@ I am a young ambitious person who love the internet and computers and everything
 - [To do app](https://github.com/radeth/to-do-list): App bulid with JavaScript, React, Redux : **JavaScript React Redux** </br>
 - [Bootstrap page](https://github.com/radeth/bootstrap-page): Responsive webpage based on bootstrap an formspree API: **CSS3 HTML5 JQuery**</br>
 ## TODO's
+
 - skonfigurowanie webpacka
-- czcionka vh+vw manipulowanie textem w zależnosci od wielkości ekranu
-- redeme ant hints atleci
-- poprawki na stronie brainattach
-- deploy problem z react-router
-- opisy projektów na githibie
-- cv!!!
+- WP api test
+- full bootstrap onepage with nawigation
+- mailing page
+
 ### sources
 
 [readme](https://www.flynerd.pl/2018/06/jak-napisac-dobre-readme-projektu-na-githubie.html?fbclid=IwAR3KRM35CvWppCV54lOlproiWO3x3GA_RNRXm1_-nufLAZVOMOyGHdsry6Y)</br>
